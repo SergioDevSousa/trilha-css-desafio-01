@@ -19,26 +19,26 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 605px;
+    height: 38rem;
     border-bottom: solid #33a8db 2px;
 }
 
 .banner-content{
     display: flex;
     flex-direction: column;
-    width: 510px;
-    height: 393px;
+    width: 32rem;
+    height: 24rem;
     align-items: center;
-    gap: 16px;
+    gap: 1rem;
     opacity: 0px;
     color: #33A8DB;
-    font-size: 20px;
+    font-size: 1.2rem;
     font-weight: 900;
 }
 
 .banner-content p{
     color: white;
-    font-size: 20px;
+    font-size: 1.2rem;
     font-weight: 200;
     text-align: center;
 }
@@ -75,25 +75,25 @@ section{
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: 550px;
+    height: 34rem;
     
 }
 #course-content h2{
     color: #33A8DB;
     text-transform: uppercase;
-    margin-top: 118px;
-    font-size: 32px;
+    margin-top: 7rem;
+    font-size: 2rem;
     font-weight: 600;
     margin-bottom: 30px;
     letter-spacing: 5px;
 }
 #course-content p{
     color: white;
-    width: 792px;
-    height: 38px;
-    gap: 0px;
+    width: 50rem;
+    height: 2rem;
     text-align: center;
     margin-bottom: 20px;
+    
 }
 #course-content .modules-list .module{
     display: flex;
@@ -107,26 +107,26 @@ section{
     padding: 16px;
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
-    
 }
 #course-content .modules-list .module span{
     color: #33A8DB;
+    padding-right: 8px;
 }
 #transform-world{
-    height: 560px;
+    height: 35rem;
     background-size: cover;
     background-image: url(./images/woman-code.png);
     background-attachment: fixed;
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
-    padding: 200px;
+    padding: 12.5rem;
 }
 #transform-world p{
     color: white;
     font-weight: 800;
     font-size: 2.5rem;
     text-transform: lowercase;
-    max-width: 250px;
+    max-width: 15.6rem;
     text-shadow: 3px 2px #33A8DB;
 }
 #professional-challenges{
@@ -136,23 +136,19 @@ section{
     color: aliceblue;
 }
 #professional-challenges h2{
-    width: 746px;
-    height: 76px;
-    margin-block: 60px;
+    width: 46.6rem;
+    height: 4.75;
+    margin-block: 4rem;
     text-align: center;
     font-size: 2rem;
     color: #33A8DB;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     text-transform: uppercase;
 }
 #professional-challenges p{
-    width: 792px;
-    height: 76px;
-    top: 2154px;
-    left: 324px;
-    gap: 0px;
-    opacity: 0px;
-    margin-block: 60px;
+    width: 50rem;
+    height: 4.75rem;
+    margin-block: 4rem;
     text-align: center;
 
 }
